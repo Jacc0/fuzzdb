@@ -117,3 +117,5 @@ world
 write
 xyzzy
 yellow
+storage_public
+storage_private
