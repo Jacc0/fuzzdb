@@ -37,6 +37,8 @@ X-Forwarded-Host
 X-Forwarded-Proto
 Front-End-Https
 X-Http-Method-Override
+X-Original-URL
+X-Rewrite-URL
 X-ATT-DeviceId
 X-Wap-Profile
 Proxy-Connection
